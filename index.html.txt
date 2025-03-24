@@ -6,6 +6,9 @@
     <title>About Me</title>
 </head>
 <body>
+<h2>About Me</h2>
+<img src="images/IMG_7619.jpg" alt="A photo of me" width="300">
+<img src="images/IMG_8661 (3).jpg" alt="Another photo of me" width="300">
     <header>
         <h1>About Me</h1>
     </header>
